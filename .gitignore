@@ -1,0 +1,17 @@
+# Ignore raw data
+data/
+results/
+
+# Ignore large files
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.fasta
+*.fa
+*.gff
+*.gbk
+
+# macOS
+.DS_Store
+
