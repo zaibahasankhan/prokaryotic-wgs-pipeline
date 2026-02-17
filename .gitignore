@@ -1,17 +1,48 @@
-# Ignore raw data
+# ===============================
+# Data & Results (NGS heavy files)
+# ===============================
+
 data/
 results/
+logs/
 
-# Ignore large files
+# ===============================
+# Large sequencing files
+# ===============================
+
 *.fastq
 *.fastq.gz
+*.fq
+*.fq.gz
 *.bam
 *.sam
+*.cram
 *.fasta
 *.fa
+*.fna
 *.gff
 *.gbk
+*.vcf
+*.html
+*.zip
 
-# macOS
+# ===============================
+# SPAdes temp
+# ===============================
+
+tmp/
+spades.log
+
+# ===============================
+# Conda environments
+# ===============================
+
+env/
+*.conda
+
+# ===============================
+# macOS system files
+# ===============================
+
 .DS_Store
 
