@@ -2,7 +2,8 @@
 # Data & Results (NGS heavy files)
 # ===============================
 
-data/
+data/*
+!data/README.md
 results/
 logs/
 
