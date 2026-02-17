@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/Users/zaibahasankhan/Documents/prokaryotic_wgs_pipeline/results/spades/contigs.fasta	NODE_21_length_65572_cov_36.653876	51525	52658	-	blaEC-15	1-1134/1134	===============	0/0	100.00	98.59	ncbi	NG_049081.1	extended-spectrum class C beta-lactamase EC-15	CEPHALOSPORIN
