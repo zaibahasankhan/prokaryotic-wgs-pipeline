@@ -10,6 +10,7 @@ SRR2584403 (available from ENA/SRA)
 To download test data:
 
 wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR258/003/SRR2584403/SRR2584403_1.fastq.gz
+
 wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR258/003/SRR2584403/SRR2584403_2.fastq.gz
 
 
