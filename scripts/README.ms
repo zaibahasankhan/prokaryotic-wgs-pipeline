@@ -1,6 +1,6 @@
 ## 📑 Pipeline Script
 
-The main pipeline script is available at:
+The main pipeline script is available in script folder
 
 It automates:
 
@@ -12,7 +12,7 @@ It automates:
 - Abricate AMR detection
 - ANI analysis
 
-Make sure to describe usage:
+To run:
 
-```bash
+chmod +x run_pipeline.sh
 ./scripts/run_pipeline.sh
