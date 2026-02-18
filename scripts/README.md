@@ -15,4 +15,5 @@ It automates:
 To run:
 
 chmod +x run_pipeline.sh
+
 ./scripts/run_pipeline.sh
